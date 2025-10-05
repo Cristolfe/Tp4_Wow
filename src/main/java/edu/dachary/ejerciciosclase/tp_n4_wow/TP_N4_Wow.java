@@ -6,7 +6,7 @@ package edu.dachary.ejerciciosclase.tp_n4_wow;
 
 /**
  *
- * @author wowle
+ * @author Wowczuk Leandro Leonel 67633
  */
 public class TP_N4_Wow {
 

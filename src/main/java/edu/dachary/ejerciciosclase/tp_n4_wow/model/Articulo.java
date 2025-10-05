@@ -6,7 +6,7 @@ package edu.dachary.ejerciciosclase.tp_n4_wow.model;
 
 /**
  *
- * @author wowle
+ * @author wow
  */
 public class Articulo {
     private String nombre;
