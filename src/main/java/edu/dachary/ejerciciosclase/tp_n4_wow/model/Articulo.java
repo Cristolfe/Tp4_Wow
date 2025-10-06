@@ -18,6 +18,8 @@ public class Articulo {
     }
     
     
-    
+   public double getPrecio(){
+        return this.precio;
+    }
     
 }
