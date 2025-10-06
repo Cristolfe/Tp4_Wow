@@ -17,5 +17,10 @@ public class Item {
         this.cantidad = cantidad;
     }
     
+     double calcularMonto() {
+        double total=0;
+        return  total += articulo.getPrecio() * cantidad;
+        
+    }
     
 }
