@@ -1,10 +1,10 @@
 edu\dachary\ejerciciosclase\tp_n4_wow\model\Cliente.class
 edu\dachary\ejerciciosclase\tp_n4_wow\model\Item.class
+IGU\ventanaAnterior.class
 edu\dachary\ejerciciosclase\tp_n4_wow\model\Electricidad.class
 edu\dachary\ejerciciosclase\tp_n4_wow\model\Factura.class
 IGU\Menu$3.class
 IGU\MenuClientes.class
-IGU\EstoEsRancioAsiQueCreeEstaClaseParaPoderMovermeEntreVentanas.class
 IGU\MenuClientes$4.class
 edu\dachary\ejerciciosclase\tp_n4_wow\model\Articulo.class
 edu\dachary\ejerciciosclase\tp_n4_wow\model\Industrial.class

@@ -17,6 +17,8 @@ public class TP_N4_Wow {
     public static void main(String[] args) {
         System.out.println("Wow que es rancio el sistema de interfaz de java!");
    
+        Menu m = new Menu();
         
+        m.setVisible(true);
     }
 }
